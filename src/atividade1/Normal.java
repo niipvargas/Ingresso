@@ -2,7 +2,6 @@ package atividade1;
 
 public class Normal extends Ingresso {
     
-    
     public void mostrarIngresso(double ingressoNormal){
         System.out.println("Ingresso Normal");
         
